@@ -1,0 +1,40 @@
+﻿[2026-07-03 15:13:51] [INFO  ] ===== Monitor-Durchlauf gestartet =====
+[2026-07-03 15:13:51] [OK    ] API 'GitHub API' -> Status 200, Antwortzeit 99ms
+[2026-07-03 15:13:52] [OK    ] API 'Google Startseite' -> Status 200, Antwortzeit 401ms
+[2026-07-03 15:13:53] [NOTOK ] API 'HTTPBin Status-Test' NICHT erreichbar: Der Remoteserver hat einen Fehler zurückgegeben: (503) Server nicht verfügbar.
+[2026-07-03 15:13:53] [OK    ] Dienst 'Spooler' laeuft
+[2026-07-03 15:13:53] [OK    ] Dienst 'W32Time' laeuft
+[2026-07-03 15:13:53] [NOTOK ] Laufwerk 'C' -> nur noch 4.7% frei (Limit: 10%)
+[2026-07-03 15:13:53] [INFO  ] Zusammenfassung: 4 von 6 Pruefungen OK, 2 NotOK
+[2026-07-03 15:13:54] [INFO  ] Discord-Benachrichtigung erfolgreich versendet
+[2026-07-03 15:13:54] [INFO  ] ===== Monitor-Durchlauf beendet (mit Fehlern) =====
+[2026-07-03 15:17:38] [INFO  ] ===== Monitor-Durchlauf gestartet =====
+[2026-07-03 15:17:38] [OK    ] API 'GitHub API' -> Status 200, Antwortzeit 96ms
+[2026-07-03 15:17:39] [OK    ] API 'Google Startseite' -> Status 200, Antwortzeit 419ms
+[2026-07-03 15:17:40] [OK    ] API 'HTTPBin Status-Test' -> Status 200, Antwortzeit 1336ms
+[2026-07-03 15:17:40] [OK    ] Dienst 'Spooler' laeuft
+[2026-07-03 15:17:40] [OK    ] Dienst 'W32Time' laeuft
+[2026-07-03 15:17:40] [NOTOK ] Laufwerk 'C' -> nur noch 4.7% frei (Limit: 10%)
+[2026-07-03 15:17:40] [INFO  ] Zusammenfassung: 5 von 6 Pruefungen OK, 1 NotOK
+[2026-07-03 15:17:41] [INFO  ] Discord-Benachrichtigung erfolgreich versendet
+[2026-07-03 15:17:41] [INFO  ] ===== Monitor-Durchlauf beendet (mit Fehlern) =====
+[2026-07-03 15:21:46] [INFO  ] ===== Monitor-Durchlauf gestartet =====
+[2026-07-03 15:21:47] [OK    ] API 'GitHub API' -> Status 200, Antwortzeit 365ms
+[2026-07-03 15:21:47] [OK    ] API 'Google Startseite' -> Status 200, Antwortzeit 113ms
+[2026-07-03 15:22:02] [NOTOK ] API 'HTTPBin Status-Test' NICHT erreichbar: The request was canceled due to the configured HttpClient.Timeout of 15 seconds elapsing.
+[2026-07-03 15:22:02] [INFO  ] Dienst-Pruefung 'Spooler' uebersprungen (kein Windows-System)
+[2026-07-03 15:22:02] [INFO  ] Dienst-Pruefung 'W32Time' uebersprungen (kein Windows-System)
+[2026-07-03 15:22:02] [OK    ] Laufwerk '/' -> 94.7% frei (953.9 GB)
+[2026-07-03 15:22:02] [INFO  ] Zusammenfassung: 3 von 4 Pruefungen OK, 1 NotOK
+[2026-07-03 15:22:03] [INFO  ] Discord-Benachrichtigung erfolgreich versendet
+[2026-07-03 15:22:03] [INFO  ] ===== Monitor-Durchlauf beendet (mit Fehlern) =====
+[2026-07-03 15:30:31] [INFO  ] ===== Monitor-Durchlauf gestartet =====
+[2026-07-03 15:30:31] [OK    ] API 'GitHub API' -> Status 200, Antwortzeit 104ms
+[2026-07-03 15:30:31] [OK    ] API 'Google Startseite' -> Status 200, Antwortzeit 415ms
+[2026-07-03 15:30:46] [NOTOK ] API 'HTTPBin Status-Test' NICHT erreichbar: Das Zeitlimit für diesen Vorgang wurde überschritten.
+[2026-07-03 15:30:46] [OK    ] Dienst 'Spooler' laeuft
+[2026-07-03 15:30:46] [OK    ] Dienst 'W32Time' laeuft
+[2026-07-03 15:30:47] [NOTOK ] Laufwerk 'C' -> nur noch 4.7% frei (Limit: 10%)
+[2026-07-03 15:30:47] [INFO  ] Zusammenfassung: 4 von 6 Pruefungen OK, 2 NotOK
+[2026-07-03 15:30:47] [INFO  ] Discord-Benachrichtigung erfolgreich versendet
+[2026-07-03 15:30:47] [INFO  ] ===== Monitor-Durchlauf beendet (mit Fehlern) =====
